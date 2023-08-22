@@ -1,6 +1,6 @@
 # Newton's Method Visualizer
 
-As the heading suggests, this is a python program that will take in a polynomial expression and an initial guess, use the Newton's method of approximation on it to solve for an approximate x in f(x) = 0, and show you the error from y (=f(x)) to 0.  
+As the heading suggests, this is a python program that will take in a polynomial expression and an initial guess, use the Newton's method of approximation on it to solve for an approximate `x` in `f(x) = 0`, and show you the error from `y (=f(x))` to `0`.  
 
 ## User guide:
 
